@@ -86,6 +86,7 @@ public class Optivest {
 		js.executeScript("arguments[0].scrollIntoView(true)", req);
 		js.executeScript("arguments[0].click()", req);
 
+		System.out.println("im gowthamm");
 	}
 
 }
